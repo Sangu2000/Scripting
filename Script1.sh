@@ -1,5 +1,9 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
-echo "I am learing merge conflict "
+echo "Heyy My name is Sangamesh "
+echo "Heyy My name is Raja "
 echo "Heyy My name is Kaustubh " 
+echo " I am a DevOps Engg "
+echo "I am learing merge conflict "
+
